@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5iKPmogBQxpXnp9SBddZciXi7neBdkOyNA&usqp=CAU");
+    background-size: cover;
+    color: black;
+}
+#heading{
+    width: 100%;
+    margin-top: 0;
+    font-size: 30px;
+    text-shadow: 8px 6px 8px rgba(255, 255, 255, 1);
+    letter-spacing: 5px;
+}
+#footer{
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(65, 65, 97);
+    text-align: center;
+    line-height: 2;
+    position: relative;
+    font-size: 20px;
+}
+canvas{
+    border: 10px double rgb(21, 231, 221);
+    box-shadow: 19px 25px 24px 4px rgb(21, 231, 221);
+-webkit-box-shadow: 19px 25px 24px 4px rgb(21, 231, 221);
+-moz-box-shadow: 19px 25px 24px 4px rgb(21, 231, 221);
+}
+#canvas{
+    margin: 20px;
+}
